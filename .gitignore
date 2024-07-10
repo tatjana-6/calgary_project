@@ -171,8 +171,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-calgary_project.md
-calgary_transit_routes_map
+/calgary_project.md
+/calgary_transit_routes_map.html
 /docs
 /models
 /references
